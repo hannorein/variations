@@ -1,4 +1,4 @@
-jupyter==1.0.0
-matplotlib==1.5.1
-numpy==1.10.4
+jupyter
+matplotlib
+numpy
 rebound==2.13.2
