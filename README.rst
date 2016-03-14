@@ -1,6 +1,6 @@
 Variations
 ==========
-This repository allows you to recreate the figures in Rein and Tamayo 2016.
+This repository allows you to recreate the figures in `Rein and Tamayo 2016 <http://arxiv.org/abs/1603.03424>`_.
 
 You can run the Jupyter notebooks locally. Make sure you have the packages installed that are listed in requirements.txt.
 
